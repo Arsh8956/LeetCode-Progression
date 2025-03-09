@@ -1,2 +1,4 @@
 # LeetCode-Progression
-a Quick Progress to track how well I am doing
+a Quick Progress Checker to track my daily Leetcode Problems!
+
+![Uploading giphy.gif…]()
